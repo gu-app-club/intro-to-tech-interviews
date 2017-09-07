@@ -3,6 +3,9 @@
 This document is a rough overview for a potential class for tech interviews, written by senior GU undergrads. 
 
 ## What are technical interviews?
+If you want to really experience what students are going through, before you read any further, go [take this](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) challenge. (Set a timer for 20 minutes and complete it before it goes off)
+
+
 When a student applys to an internship or post-grad job, nearly every company will give them a "technical interview" on top of a behavioral interview. Unlike a behavioral interview, a technical interview focuses around solving 1 or more code challenges. These will often ask the student to solve a problem with a certain algorithm or data structure. Or they might give a problem statement and have the student figure out what algorithm and data structure is required. 
 
 A simple interview question might be:
