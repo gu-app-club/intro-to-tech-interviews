@@ -70,6 +70,8 @@ In general, the class should briefly cover subjects and provide interview questi
 ## What is not expected from a professor or class
 We don't expect professors to have signifigant experience interviewing for industry jobs. Nor do we expect them to know anything about resumes, applications, companies, or anything else. The career center is quite good at handling these things and so we should let them do it.
 
+This class should not require any serious grading. Asking students to do coding challenges is fine, but in general, let the students be self driven. The professor should act as proctor and share their knowledge of core computer science topics. 
+
 ## Previously created guides and resources
 
 GUMAD and other groups have been working hard to help create resources for students.
@@ -93,7 +95,7 @@ GUMAD and other groups have been working hard to help create resources for stude
 * Have other students do it while they're doing it
 
 ### Homework for each day
-Do one coding challenge on Hackerrank / Leetcode (Time yourself preferably). Since these websites automatically score you, this means there's really no grading to be done. Just checking off wether or not the student did it is probably best. 
+Do one coding challenge on Hackerrank / Leetcode (Time yourself preferably).
 
 ### 15 week Schedule
 * Week 1 - Introduction to what code challenges are
