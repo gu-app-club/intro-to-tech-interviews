@@ -93,7 +93,7 @@ GUMAD and other groups have been working hard to help create resources for stude
 * Have other students do it while they're doing it
 
 ### Homework for each day
-* Do one coding challenge on Hackerrank / Leetcode (Time yourself preferably)
+Do one coding challenge on Hackerrank / Leetcode (Time yourself preferably). Since these websites automatically score you, this means there's really no grading to be done. Just checking off wether or not the student did it is probably best. 
 
 ### 15 week Schedule
 * Week 1 - Introduction to what code challenges are
@@ -121,3 +121,10 @@ GUMAD and other groups have been working hard to help create resources for stude
 * Week 13 - Generic Practice
 * Week 14 - Generic Practice
 * Week 15 - Generic Practice
+
+## On Prerequisites
+There should be none. This really should be a course that students take because they feel like they're ready. Whether you're applying for a job as a freshman, sophmore, junior or senior you will often be asked similar questions.
+
+While it would be incredibly helpful to have had data structures and advanced data structures, it's not always necessary and many students will have to learn quickly if they would like an internship early on. 
+
+In other words, it should probably be aimed at seniors and juinors and allow sophmores and freshmen to join if they would like. 
