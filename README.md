@@ -44,7 +44,7 @@ If the company is local or flys the student out to their location, the student w
 * Inform students about the concept of technical interviews (both in person and automated)
 * Provide a venue for students to practice code challeneges both in person and on their own
 * Calm student fears and guide them away from unhealthy panic
-    * Avoid /r/cscareerquestions
+    * Avoid [/r/cscareerquestions](http://reddit.com/r/cscareerquestions)
     * Apply to many places to avoid getting caught up in a single job offer
     * Practice to avoid test anxiety
 
