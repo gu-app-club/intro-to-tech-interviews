@@ -113,7 +113,7 @@ Do one coding challenge on Hackerrank / Leetcode (Time yourself preferably).
     * HW: Do problems invovling Tries [Examples](https://leetcode.com/tag/trie/)
 * Week 7 - Breadth first and depth first search
     * HW: Do problems involving graph theory and searching [Examples](https://www.hackerrank.com/domains/algorithms/graph-theory)
-* Week 8 - Do Dykstras and A* Search
+* Week 8 - Do Dijkstras and A* Search
     * HW: Do problems involving Dykstras and A* Search 
 * Week 9 - Dynamic programming
     * HW: Do problems involving dynamic programming [Examples](https://www.hackerrank.com/domains/algorithms/dynamic-programming)
